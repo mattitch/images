@@ -31,11 +31,11 @@
 <dir>
 <title>Saturday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/sat.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/sat.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sat.gif</animated_thumbnail>
 </dir>
 
 <dir>
 <title>Sunday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/sun.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sun.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/sun.gif</animated_thumbnail>
 </dir>
