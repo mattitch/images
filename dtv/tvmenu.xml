@@ -1,7 +1,7 @@
 <dir>
 <title>Monday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/mon.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/mon.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/mon.gif</animated_thumbnail>
 </dir>
 
 <dir>
@@ -37,5 +37,5 @@
 <dir>
 <title>Sunday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/sun.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/sun.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sun.gif</animated_thumbnail>
 </dir>
