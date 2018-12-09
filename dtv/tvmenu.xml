@@ -39,3 +39,8 @@
 <link>https://github.com/mattitch/images/raw/master/dtv/sun.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sun.gif</animated_thumbnail>
 </dir>
+
+<dir>
+<title>My Episodes To Watch</title>
+<link>https://github.com/mattitch/images/raw/master/dtv/seps.xml</link>
+</dir>
