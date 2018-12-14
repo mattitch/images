@@ -1,3 +1,10 @@
+(oload)
+(vdoza)
+(vdlox)
+(smngo)
+(vtodo)
+
+MOVIE
 <item>
 <title></title>
 <meta>
@@ -15,6 +22,7 @@
 <animated_fanart></animated_fanart>
 <fanart></fanart>
 </item>
+THE FLASH
 <item>
 	<title>The Flash S05E09</title>
 	<meta>
@@ -33,6 +41,7 @@
 	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
 	<content></content>
 </item>
+CHARMED
 <item>
 	<title>Charmed S01E09</title>
 	<meta>
@@ -51,6 +60,7 @@
 	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
 	<content></content>
 </item>
+RUSSELL HOWARD HOUR
 <item>
     <title>[COLOR lime]The Russell Howard Hour S02E05[/COLOR]</title>
     <link>
@@ -62,6 +72,7 @@
     <fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
     <content></content>
 </item>
+LEGACIES
 <item>
 	<title>Legacies Season 1 Episode 6</title>
 	<meta>
@@ -80,6 +91,7 @@
 	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
 	<content></content>
 </item>
+MCINTYRE BIG SHOW
 <item>
 	<title>Michael McIntyre's Big Show S04E04</title>
 	<meta>
@@ -116,6 +128,7 @@
     <fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
     <content></content>
 </item>
+SUPERGIRL
 <item>
 	<title>Supergirl S04E09</title>
 	<meta>
@@ -134,4 +147,84 @@
 	<thumbnail>https://www.thetvdb.com/banners/posters/5bd458bda1772.jpg</thumbnail>
 	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
 	<content></content>
+</item>
+GOLDBERGS
+<item>
+	<title>The Goldbergs S06E10</title>
+	<meta>
+  <content>episode</content>
+  <imdb></imdb>
+  <tvdb>269653</tvdb>
+  <tvshowtitle>The Goldbergs</tvshowtitle>
+  <year>2013</year>
+    <season>6</season>
+  <episode>10</episode>
+</meta>
+	<link>
+	<sublink>https://vidoza.net/pixzqxrdh867.html</sublink>
+	<sublink>https://vidoza.net/ok7j6q8o6gq1.html</sublink>
+	</link>
+	<thumbnail>https://www.thetvdb.com/banners/posters/5b96c69cafe90.jpg</thumbnail>
+	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
+	<content></content>
+</item>
+HOUSE OF GAMES
+<item>
+	<title>House of Games (2/5) S02E47</title>
+	<meta>
+  <content>episode</content>
+  <imdb></imdb>
+  <tvdb>334149</tvdb>
+  <tvshowtitle>Richard Osman's House of Games</tvshowtitle>
+  <year>2017</year>
+    <season>2</season>
+  <episode>47</episode>
+</meta>
+	<link>
+	<sublink>https://openload.co/f/o9LzrRJg48g</sublink>
+	<sublink>https://openload.co/f/Oc52CEatItU</sublink>
+	<sublink>https://openload.co/f/nqTw5vFBzlE</sublink>
+	</link>
+	<thumbnail>https://www.thetvdb.com/banners/posters/334149-1.jpg</thumbnail>
+	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
+	<content></content>
+</item>
+<item>
+	<title>House of Games (3/5) S02E48</title>
+	<meta>
+  <content>episode</content>
+  <imdb></imdb>
+  <tvdb>334149</tvdb>
+  <tvshowtitle>Richard Osman's House of Games</tvshowtitle>
+  <year>2017</year>
+    <season>2</season>
+  <episode>48</episode>
+</meta>
+	<link>
+	<sublink>https://openload.co/f/xzS0EQfkSZM</sublink>
+	<sublink>https://openload.co/f/nOYhloFOR28</sublink>
+	<sublink>https://openload.co/f/FCS7zw5KCXs</sublink>
+	</link>
+	<thumbnail>https://www.thetvdb.com/banners/posters/334149-1.jpg</thumbnail>
+	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
+	<content></content>
+</item>
+NIGHT SCHOOL
+<item>
+<title>Night School</title>
+<meta>
+<content>movie</content>
+<imdb>tt6781982</imdb>
+<title>Night School</title>
+<year>2018</year>
+</meta>
+<link>
+<sublink>https://openload.co/f/URv2yXsv4aQ/Night.School.2018.HDRip.XviD.AC3-EVO.avi</sublink>
+<sublink>https://openload.co/f/URv2yXsv4aQ/Night.School.2018.HDRip.XviD.AC3-EVO.avi</sublink>
+<sublink>https://streamango.com/f/tsaeabcsofnecben/Night_School_2018_WEBDL_x264_mp4</sublink>
+</link>
+<animated_thumbnail>https://media.giphy.com/media/C8IVQAV26GPqBbQBNE/giphy.gif</animated_thumbnail>
+<thumbnail>https://fanart.tv/fanart/movies/454293/movieposter/night-school-5b7bb8e3ea9c8.jpg</thumbnail>
+<animated_fanart></animated_fanart>
+<fanart>https://image.tmdb.org/t/p/original/7CWpvqVY5JWbEtkaenzqfJjVSal.jpg</fanart>
 </item>
