@@ -21,96 +21,55 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/iciKzRqW0glXbfry2YKrZ0TJ1Kz.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/9foO1E8sliKN2dvtMOEwwQgynlW.jpg</fanart>
 </item>
-<item>
-	<title>Legacies S01E07</title>
-	<meta>
-  <content>episode</content>
-  <imdb></imdb>
-  <tvdb>349309</tvdb>
-  <tvshowtitle>Legacies</tvshowtitle>
-  <year>2018</year>
-    <season>1</season>
-  <episode>7</episode>
-</meta>
-	<link>
-	<sublink>https://streamango.com/f/pbaaoqmkkftltdfr/Legacies_S01E07_720p_HDTV_x264-SVA_mkv(smngo)</sublink>
-	<sublink>https://openload.co/f/K_wkq_dwWJs(oload[B][COLOR red]PAIR[/COLOR][/B])</sublink>
-	<sublink>https://vidoza.net/jwfo205v7562.html(vdoza)</sublink>
-	</link>
-	<thumbnail>https://www.thetvdb.com/banners/posters/5be842ebb8899.jpg</thumbnail>
-	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
-	<content></content>
-</item>
-<item>
-	<title>Superstore S04E09</title>
-	<meta>
-  <content>episode</content>
-  <imdb></imdb>
-  <tvdb>295648</tvdb>
-  <tvshowtitle>Superstore</tvshowtitle>
-  <year>2015</year>
-    <season>4</season>
-  <episode>9</episode>
-</meta>
-	<link>
-	<sublink>https://vidoza.net/jh199pebg1yx.html(vdoza)</sublink>
-	<sublink>https://vidoza.net/jflbuvh5lbss.html(vdoza)</sublink>
-	<sublink>https://openload.co/f/erzSoSFLhsM/Superstore.S04E09.HDTV.x264-SVA.mkv(oload[B][COLOR red]PAIR[/COLOR][/B])</sublink>
-	</link>
-	<thumbnail>https://www.thetvdb.com/banners/posters/295648-3.jpg</thumbnail>
-	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
-	<content></content>
-</item>
-<item>
-	<title>Celebrity Juice S20E11</title>
-	<meta>
-  <content>episode</content>
-  <imdb></imdb>
-  <tvdb>84041</tvdb>
-  <tvshowtitle>Celebrity Juice</tvshowtitle>
-  <year>2008</year>
-    <season>20</season>
-  <episode>11</episode>
-</meta>
-	<link>
-	<sublink>https://openload.co/f/wpTehCoLgS8/(oload[B][COLOR red]PAIR[/COLOR][/B])</sublink>
-	<sublink>https://streamango.com/f/rkpkacslpmeclmto/C(smngo)</sublink>
-	<sublink>https://vidtodo.com/iqq0s27g4uk6(vtodo)</sublink>
-	</link>
-	<thumbnail>https://www.thetvdb.com/banners/posters/84041-2.jpg</thumbnail>
-	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
-	<content></content>
-</item>
-<item>
-	<title>DC's Legends of Tomorrow S04E08</title>
-	<meta>
-  <content>episode</content>
-  <imdb></imdb>
-  <tvdb>295760</tvdb>
-  <tvshowtitle>DC's Legends of Tomorrow</tvshowtitle>
-  <year>2016</year>
-    <season>4</season>
-  <episode>8</episode>
-</meta>
-	<link>
-	<sublink>https://openload.co/f/aVuMl2uo9xQ/DCs.Legends.of.Tomorrow.S04E08.HDTV.x264-SVA.mkv(oload[B][COLOR red]PAIR[/COLOR][/B])</sublink>
-	<sublink>https://vidtodo.com/8qshxha23af8(vtodo)</sublink>
-	<sublink>https://vidoza.net/mdp0ydvk2928.html(vdoza)</sublink>
-	</link>
-	<thumbnail>https://www.thetvdb.com/banners/posters/5bcfd856e5716.jpg</thumbnail>
-	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
-	<content></content>
-</item>
+
+
+
+
 <item>
     <title>[COLOR lime]The Russell Howard Hour S02E06[/COLOR]</title>
     <link>
-        <sublink>search</sublink>
+        <sublink>\\mattbox1\Seagate Backup Plus\TVShows\The Russell Howard Hour S02E06 (13 Dec 2018).mp4</sublink>
 		<sublink>searchsd</sublink>
 		<sublink></sublink>
 	</link>
     <thumbnail>https://www.thetvdb.com/banners/posters/334902-1.jpg</thumbnail>
     <fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
     <content></content>
+</item>
+<item>
+	<title>[B][COLOR=yellow]James Brown Pt. 2[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt7212136</imdb>
+	<content>episode</content>
+	<tvshowtitle>Mike Judge Presents Tales From the Tour Bus</tvshowtitle>
+	<year>2018</year>
+	<season>2</season>
+	<episode>6</episode>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fUPKJgqHwW9NyPHBwXVGxTu2Lhk.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/9GWrXBSxPnlaFkuXavuPxXFhC9e.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=yellow]Morris Day and The Time[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt7212136</imdb>
+	<content>episode</content>
+	<tvshowtitle>Mike Judge Presents Tales From the Tour Bus</tvshowtitle>
+	<year>2018</year>
+	<season>2</season>
+	<episode>7</episode>
+	</meta>
+	<link>
+	<sublink>https://streamango.com/f/sbeacbnktttnenql/(smngo)</sublink>
+	<sublink>https://vidoza.net/lu1hxeawoaa8.html(vdoza)</sublink>
+	<sublink>https://openload.co/f/SwYQ7JGHbjo/Mike.Judge.Presents.Tales.From.The.Tour.Bus.S02E07.WEBRip.x264-eSc.mkv(oload[B][COLOR red]PAIR[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/9GWrXBSxPnlaFkuXavuPxXFhC9e.jpg</fanart>
 </item>
 <item>
 	<title>Paw Patrol S05E40</title>
