@@ -1,6 +1,7 @@
 <xml>
 <item>
 <title>MONDAY</title>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/mon.gif</animated_thumbnail>
 </item>
 <item>
 	<title>[COLOR=white]Blood Memory[/COLOR]</title>
@@ -38,6 +39,8 @@
 </item>
 <item>
 <title>TUESDAY</title>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/tue.gif</animated_thumbnail>
+
 </item>
 <item>
 	<title>[COLOR=white]Past Sins[/COLOR]</title>
@@ -75,6 +78,7 @@
 </item>
 <item>
 <title>WEDNESDAY</title>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/wed.gif</animated_thumbnail>
 </item>
 <item>
 	<title>[COLOR=white]Memorabilia[/COLOR]</title>
@@ -129,6 +133,7 @@
 </item>
 <item>
 <title>THURSDAY</title>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/thu.gif</animated_thumbnail>
 </item>
 <item>
 	<title>[COLOR=white]Major League[/COLOR]</title>
@@ -183,6 +188,7 @@
 </item>
 <item>
 <title>FRIDAY</title>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/fri.gif</animated_thumbnail>
 </item>
 <item>
 	<title>[COLOR=white]The Wolf at the Door[/COLOR]</title>
@@ -272,8 +278,10 @@
 
 <item>
 <title>SATURDAY</title>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sat.gif</animated_thumbnail>
 </item>
 <item>
 <title>SUNDAY</title>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sun.gif</animated_thumbnail>
 </item>
 </xml>
