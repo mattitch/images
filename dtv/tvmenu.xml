@@ -44,3 +44,7 @@
 <title>My Episodes To Watch</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/seps.xml</link>
 </dir>
+<dir>
+<title>Upcoming Next Week</title>
+<link>https://github.com/mattitch/images/raw/master/dtv/thisweek.xml</link>
+</dir>
