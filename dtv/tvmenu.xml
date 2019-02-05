@@ -121,13 +121,79 @@
 <link>https://github.com/mattitch/images/raw/master/dtv/thu.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/thu.gif</animated_thumbnail>
 </dir>
-
+<item>
+	<title>[COLOR=white]Episode 11[/COLOR]</title>
+	<meta>
+	<imdb>tt7544016</imdb>
+	<content>episode</content>
+	<tvshowtitle>The Russell Howard Hour</tvshowtitle>
+	<year>2019</year>
+	<season>2</season>
+	<episode>11</episode>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://www.thetvdb.com/banners/posters/334902-1.jpg</thumbnail>
+	<fanart>https://www.thetvdb.com/banners/fanart/original/334902-2.jpg</fanart>
+</item>
 <dir>
 <title>Friday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/fri.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/fri.gif</animated_thumbnail>
 </dir>
-
+<item>
+	<title>[COLOR=white]Natural Order[/COLOR]</title>
+	<meta>
+	<imdb>tt5615700</imdb>
+	<content>episode</content>
+	<tvshowtitle>Siren</tvshowtitle>
+	<year>2019</year>
+	<season>2</season>
+	<episode>3</episode>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/73OIdF2QlCQ2hfwKdyGrdJWSaum.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/pSPfQtnBkdOB2pGYYq70WZWAJvV.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]The Donation Oscillation[/COLOR]</title>
+	<meta>
+	<imdb>tt0898266</imdb>
+	<content>episode</content>
+	<tvshowtitle>The Big Bang Theory</tvshowtitle>
+	<year>2019</year>
+	<season>12</season>
+	<episode>15</episode>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wsbrXP0qAKwrJ3ZUCoLwFI4Qws3.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/nGsNruW3W27V6r4gkyc3iiEGsKR.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]A Math Emergency and Perky Palms[/COLOR]</title>
+	<meta>
+	<imdb>tt6226232</imdb>
+	<content>episode</content>
+	<tvshowtitle>Young Sheldon</tvshowtitle>
+	<year>2019</year>
+	<season>2</season>
+	<episode>15</episode>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7r2LDgbpXYefl2vCQDsZGiVVnlT.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/ttbrl8AEAcR430mOZ1i4Ab2buvI.jpg</fanart>
+</item>
 <dir>
 <title>Saturday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/sat.xml</link>
