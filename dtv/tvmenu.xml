@@ -194,12 +194,97 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/7r2LDgbpXYefl2vCQDsZGiVVnlT.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/ttbrl8AEAcR430mOZ1i4Ab2buvI.jpg</fanart>
 </item>
+<item>
+	<title>[COLOR=white]A Tale of Two Bandits[/COLOR]</title>
+	<meta>
+	<imdb>tt2467372</imdb>
+	<content>episode</content>
+	<tvshowtitle>Brooklyn Nine Nine</tvshowtitle>
+	<year>2019</year>
+	<season>6</season>
+	<episode>5</episode>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/imcxmIEU00wm8n1V4xL8mJYYH5Q.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/ncC9ZgZuKOdaVm7yXinUn26Qyok.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]There's a World Where Your Dreams Come True[/COLOR]</title>
+	<meta>
+	<imdb>tt8103070</imdb>
+	<content>episode</content>
+	<tvshowtitle>Legacies</tvshowtitle>
+	<year>2019</year>
+	<season>1</season>
+	<episode>10</episode>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ucXYUHfoK7gOVUnMxCoNdKEnHyC.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+</item>
+
 <dir>
 <title>Saturday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/sat.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sat.gif</animated_thumbnail>
 </dir>
-
+<item>
+	<title>[COLOR=white]Episode 5[/COLOR]</title>
+	<meta>
+	<imdb>tt2345459</imdb>
+	<content>episode</content>
+	<tvshowtitle>8 Out of 10 Cats Does Countdown</tvshowtitle>
+	<year>2019</year>
+	<season>17</season>
+	<episode>5</episode>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qujK2RnEPDeWj5rhSVykng6c6vy.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/1y9EkcQdRaodTfDo9vGwsR8oAbe.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]Fashion[/COLOR]</title>
+	<meta>
+	<imdb>tt9663964</imdb>
+	<content>episode</content>
+	<tvshowtitle>Rob & Romesh Vs</tvshowtitle>
+	<year>2019</year>
+	<season>1</season>
+	<episode>3</episode>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qcnu1oa6uSUk305ut8WVLRJhpwT.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/znJPA5j7QM9XZlSbsuXKzmqS8YP.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]Pathological[/COLOR]</title>
+	<meta>
+	<imdb>tt0380136</imdb>
+	<content>episode</content>
+	<tvshowtitle>QI</tvshowtitle>
+	<year>2019</year>
+	<season>16</season>
+	<episode>14</episode>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/psxyJhoHluYprlHx6yHwjFIpX7X.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/ikS12cRIPV1ZDVmCVKMNfMmow9Y.jpg</fanart>
+</item>
 <dir>
 <title>Sunday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/sun.xml</link>
