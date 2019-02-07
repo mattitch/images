@@ -127,7 +127,23 @@
 	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
 	<content></content>
 </item>
-
+<item>
+	<title>Butterbeans Cafe S01E01</title>
+	<meta>
+  <content>episode</content>
+  <imdb>tt7833624</imdb>
+  <tvdb></tvdb>
+  <tvshowtitle>Butterbean's Cafe</tvshowtitle>
+  <year>2018</year>
+    <season>1</season>
+  <episode>1</episode>
+</meta>
+	<link>
+	<sublink>search</sublink>
+	</link>
+	<thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzYmUzZGUtMzk1NC00MjI3LThjYzctMmM2OGM0NGNhYjhkXkEyXkFqcGdeQXVyNTM0NjIxMzA@._V1_.jpg</thumbnail>
+	<fanart></fanart>
+	</item>
 <item>
 	<title></title>
 	<link>		</link>
