@@ -138,39 +138,9 @@
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sat.gif</animated_thumbnail>
 </dir>
 
-	<title>[COLOR=white]Fashion[/COLOR]</title>
-	<meta>
-	<imdb>tt9663964</imdb>
-	<content>episode</content>
-	<tvshowtitle>Rob & Romesh Vs</tvshowtitle>
-	<year>2019</year>
-	<season>1</season>
-	<episode>3</episode>
-	</meta>
-	<link>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/qcnu1oa6uSUk305ut8WVLRJhpwT.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/znJPA5j7QM9XZlSbsuXKzmqS8YP.jpg</fanart>
-</item>
-<item>
-	<title>[COLOR=white]Pathological[/COLOR]</title>
-	<meta>
-	<imdb>tt0380136</imdb>
-	<content>episode</content>
-	<tvshowtitle>QI</tvshowtitle>
-	<year>2019</year>
-	<season>16</season>
-	<episode>14</episode>
-	</meta>
-	<link>
-	<sublink>https://rapidgator.net/file/65cee311aec33c666d9740f6cef790f9/QI.S16E14.Pathology.720p.WEB.h264-KOMPOST.mkv.html</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/psxyJhoHluYprlHx6yHwjFIpX7X.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/ikS12cRIPV1ZDVmCVKMNfMmow9Y.jpg</fanart>
-</item>
+	
+
+
 <dir>
 <title>Sunday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/sun.xml</link>
