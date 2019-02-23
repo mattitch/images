@@ -3,7 +3,10 @@
 	<thumbnail>http://gen-tec.co/gentecwiz/PLEASE%20SUBSCRIBE%20TO%20CHARLIE%20TEC%20YOUTUBE/star/tvshows/catchup.png</thumbnail>
 	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
 </item>
-
+<dir>
+    <title>Big Narstie Show</title>
+    <tvmaze>shows/37175</tvmaze>
+    </dir>
 
 <item>
 	<title>[COLOR=white]The Stand Up Sketch Show[/COLOR]</title>
