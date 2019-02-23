@@ -3,10 +3,20 @@
 	<thumbnail>http://gen-tec.co/gentecwiz/PLEASE%20SUBSCRIBE%20TO%20CHARLIE%20TEC%20YOUTUBE/star/tvshows/catchup.png</thumbnail>
 	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
 </item>
-<dir>
-    <title>Big Narstie Show</title>
-    <tvmaze>shows/37175</tvmaze>
-    </dir>
+<item>
+    <title>The Big Narstie Show</title>
+	<meta>
+	<tvdb>349749</tvdb>
+	<content>episode</content>
+	<tvshowtitle>The Big Narstie Show</tvshowtitle>
+	<season>2</season>
+	<episode>1</episode>
+	<year>2019</year>
+	</meta>
+    <link>
+	<sublink>https://rapidgator.net/file/5141c97f5f2f55d82a6a9e331bc3eae4/The.Big.Narstie.Show.S02E01.HDTV.x264-PLUTONiUM.mkv.html</sublink>
+	</link>
+</item>
 
 <item>
 	<title>[COLOR=white]The Stand Up Sketch Show[/COLOR]</title>
