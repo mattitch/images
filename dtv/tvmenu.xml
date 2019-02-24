@@ -33,7 +33,7 @@
 <dir>
 <title>Friday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/fri.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/fri.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/fri.gif</animated_thumbnail>
 </dir>
 <item>
 	<title>[COLOR=white]Legend of Dark Knight: Ace Chemicals[/COLOR]</title>
@@ -57,40 +57,25 @@
 <dir>
 <title>Saturday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/sat.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sat.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/sat.gif</animated_thumbnail>
 </dir>
 <item>
-	<title>[COLOR=white]Country Music[/COLOR]</title>
+	<title>Through the Keyhole 2013 S06E08</title>
 	<meta>
-	<imdb>tt9663964</imdb>
-	<content>episode</content>
-	<tvshowtitle>Rob & Romesh Vs</tvshowtitle>
-	<year>2019</year>
-	<season>1</season>
-	<episode>5</episode>
-	</meta>
+  <content>episode</content>
+  <imdb>tt4319118</imdb>
+  <tvshowtitle>Through the Keyhole</tvshowtitle>
+  <year>2013</year>
+    <season>6</season>
+  <episode>8</episode>
+</meta>
 	<link>
-	<sublink>https://rapidgator.net/file/e7925a452f885fab3b6034b252f8da3e/Rob.And.Romesh.Vs.S01E05.HDTV.x264-TVC.mp4.html</sublink>
+	<sublink>https://rapidgator.net/file/4e4937c64e90c69de036010441be4179/Through.the.Keyhole.S06E08.WEB.x264-TVC.mp4.html</sublink>
 	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/lsSWC9nQ59BCIkjrlQ7jzvKSuoH.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/znJPA5j7QM9XZlSbsuXKzmqS8YP.jpg</fanart>
+	<thumbnail>https://www.thetvdb.com/banners/posters/272784-3.jpg</thumbnail>
+	<fanart>https://www.thetvdb.com/banners/fanart/original/272784-2.jpg</fanart>
 </item>
-<item>
-	<title>[COLOR=white]We're Gonna Need A Spotlight[/COLOR]</title>
-	<meta>
-	<imdb>tt8103070</imdb>
-	<content>episode</content>
-	<tvshowtitle>Legacies</tvshowtitle>
-	<year>2019</year>
-	<season>1</season>
-	<episode>11</episode>
-	</meta>
-	<link>
-	<sublink>https://rapidgator.net/file/cfb3304f19c408c76ef999e4632b33da/Legacies.S01E11.720p.HDTV.x264-AVS.mkv.html</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/ucXYUHfoK7gOVUnMxCoNdKEnHyC.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
-</item>
+
 	<item>
 	<title>[COLOR=white]Episode 1[/COLOR]</title>
 	<meta>
@@ -108,22 +93,7 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/zileoENA0ukhyZjLnBhpb2OsmPD.jpg</fanart>
 </item>
 
-<item>
-	<title>[COLOR=white]Postal[/COLOR]</title>
-	<meta>
-	<imdb>tt0380136</imdb>
-	<content>episode</content>
-	<tvshowtitle>QI</tvshowtitle>
-	<year>2019</year>
-	<season>16</season>
-	<episode>16</episode>
-	</meta>
-	<link>
-	<sublink>https://rapidgator.net/file/cdd002ed737ed8ea1dd06ad500276a1b/QI.S16E16.Post.WEB.h264-KOMPOST.mkv.html</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/hieAAv1MVYzRuX12ttVmlq7kGn9.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/ikS12cRIPV1ZDVmCVKMNfMmow9Y.jpg</fanart>
-</item>
+
 
 
 <dir>
