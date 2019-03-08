@@ -41,32 +41,13 @@
 <dir>
 <title>Wednesday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/wed.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/wed.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/wed.gif</animated_thumbnail>
 </dir>
-<item>
-	<title>[COLOR=white]Episode 1[/COLOR]</title>
-	<meta>
-	<imdb>tt6010920</imdb>
-	<content>episode</content>
-	<tvshowtitle>White Gold</tvshowtitle>
-	<year>2019</year>
-	<season>2</season>
-	<episode>1</episode>
-	</meta>
-	<link>
-	<sublink>https://rapidgator.net/file/f3355fbf6973c5aed07394d712670434/White.Gold.S02E01.720p.HDTV.x264-MTB.mkv.html</sublink>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/kVkVap4LS8DC2P3EJ3GK4v3eQmR.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/A3rYIbZfCx8OWgBbT9lnR1Uw2V3.jpg</fanart>
-</item>
-
 
 <dir>
 <title>Thursday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/thu.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/thu.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/thu.gif</animated_thumbnail>
 </dir>
 
 
@@ -76,9 +57,158 @@
 <link>https://github.com/mattitch/images/raw/master/dtv/fri.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/fri.gif</animated_thumbnail>
 </dir>
-
-
-
+<item>
+	<title>[COLOR=white]Legend of Dark Knight: The Trial of James Gordon[/COLOR]</title>
+	<meta>
+	<imdb>tt3749900</imdb>
+	<content>episode</content>
+	<tvshowtitle>Gotham</tvshowtitle>
+	<year>2019</year>
+	<season>5</season>
+	<episode>9</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/5bac64f463b8949375be0f6e7558a8cd/gotham.s05e09.720p.web.x264-tbs.mkv.html</sublink>
+	<sublink>https://rapidgator.net/file/d4df740782826f57285592730de4739d/gotham.s05e09.1080p.web.x264-tbs.mkv.html</sublink>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/mKBP1OCgCG0jw8DwVYlnYqVILtc.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]Cloud 9 Academy[/COLOR]</title>
+	<meta>
+	<imdb>tt4477976</imdb>
+	<content>episode</content>
+	<tvshowtitle>Superstore</tvshowtitle>
+	<year>2019</year>
+	<season>4</season>
+	<episode>10</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/4c31ed66f0ff9468ccccfd2aa5571d04/Superstore.S04E10.720p.HDTV.x264-AVS.mkv.html</sublink>
+	<sublink>https://rapidgator.net/file/5c3be3d0dec1a514100df9b36e331da1/Superstore.S04E10.1080p.WEB.H264-METCON.mkv.html</sublink>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/aNqCjp1nlg5OPpYu7gX4GnIO7zU.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/pQRZRxQZOZikBbZqWGeEdOtQNsz.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]Entrapment[/COLOR]</title>
+	<meta>
+	<imdb>tt5615700</imdb>
+	<content>episode</content>
+	<tvshowtitle>Siren</tvshowtitle>
+	<year>2019</year>
+	<season>2</season>
+	<episode>7</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/83898150018272b57d094dd08a927b24/siren.2018.s02e07.720p.web.x264-tbs.mkv.html</sublink>
+	<sublink>https://rapidgator.net/file/fe5b2cf3f8b81a2fd08b5bdea60ffba8/siren.2018.s02e07.1080p.web.h264-tbs.mkv.html</sublink>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/73OIdF2QlCQ2hfwKdyGrdJWSaum.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/pSPfQtnBkdOB2pGYYq70WZWAJvV.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]The Conference Valuation[/COLOR]</title>
+	<meta>
+	<imdb>tt0898266</imdb>
+	<content>episode</content>
+	<tvshowtitle>The Big Bang Theory</tvshowtitle>
+	<year>2019</year>
+	<season>12</season>
+	<episode>17</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/c88e80db7da8cec99e8e630738a29bc6/The.Big.Bang.Theory.S12E17.720p.HDTV.x264-AVS.mkv.html</sublink>
+	<sublink>https://rapidgator.net/file/4252eca3864bae68168314013f940170/the.big.bang.theory.s12e17.1080p.hdtv.x264-lucidtv.mkv.html</sublink>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wsbrXP0qAKwrJ3ZUCoLwFI4Qws3.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/nGsNruW3W27V6r4gkyc3iiEGsKR.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]Albert Einstein and the Story of Another Mary[/COLOR]</title>
+	<meta>
+	<imdb>tt6226232</imdb>
+	<content>episode</content>
+	<tvshowtitle>Young Sheldon</tvshowtitle>
+	<year>2019</year>
+	<season>2</season>
+	<episode>17</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/ffd1b11a7c99a4ee0836908d798b766f/Young.Sheldon.S02E17.720p.HDTV.x264-KILLERS.mkv</sublink>
+	<sublink>https://rapidgator.net/file/940460eb1ce01032ec1a7851ff5f9748/young.sheldon.s02e17.1080p.hdtv.x264-lucidtv.mkv.html</sublink>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7r2LDgbpXYefl2vCQDsZGiVVnlT.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/8hlywyK48eYNsBFgsF7YkbFCVLf.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]The Golden Child[/COLOR]</title>
+	<meta>
+	<imdb>tt2467372</imdb>
+	<content>episode</content>
+	<tvshowtitle>Brooklyn Nine Nine</tvshowtitle>
+	<year>2019</year>
+	<season>6</season>
+	<episode>9</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/bf7b6920002fccaf02e8e77505358e9e/Brooklyn.Nine-Nine.S06E09.720p.HDTV.x264-KILLERS.mkv.html</sublink>
+	<sublink>https://rapidgator.net/file/e9879a353a8fea4119e92b6e49de22e5/Brooklyn.Nine-Nine.S06E09.1080p.WEB.H264-METCON.mkv.html</sublink>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/imcxmIEU00wm8n1V4xL8mJYYH5Q.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/ncC9ZgZuKOdaVm7yXinUn26Qyok.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]Blood of Patriots[/COLOR]</title>
+	<meta>
+	<imdb>tt5691552</imdb>
+	<content>episode</content>
+	<tvshowtitle>The Orville</tvshowtitle>
+	<year>2019</year>
+	<season>2</season>
+	<episode>10</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/2342b6cdf9d3ffccb658d249b9896262/the.orville.s02e10.720p.web.x264-tbs.mkv.html</sublink>
+	<sublink>https://rapidgator.net/file/84f3338f870f8e69775f90fd3ba5712e/Supernatural.S14E14.1080p.HDTV.x264-CRAVERS.mkv.html</sublink>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8gB4zeP5OEU5r2dnXw9P87qJ1Di.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2Qg2fViQzWenpUaMjhv0kNhCbE9.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]The Boy Who Still Has a Lot of Good to Do[/COLOR]</title>
+	<meta>
+	<imdb>tt8103070</imdb>
+	<content>episode</content>
+	<tvshowtitle>Legacies</tvshowtitle>
+	<year>2019</year>
+	<season>1</season>
+	<episode>13</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/d3db72ba473657cf8e26ce79cb41f989/Legacies.S01E13.720p.HDTV.x264-AVS.mkv.html</sublink>
+	<sublink>https://rapidgator.net/file/b56122544aa75142afddfff27c78920f/legacies.s01e13.1080p.web.h264-tbs.mkv.html</sublink>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ucXYUHfoK7gOVUnMxCoNdKEnHyC.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+</item>
 
 
 
