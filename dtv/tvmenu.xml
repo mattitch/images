@@ -7,7 +7,7 @@
 <dir>
 <title>Tuesday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/tue.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/tue.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/tue.gif</animated_thumbnail>
 </dir>
 
 
@@ -15,70 +15,12 @@
 <dir>
 <title>Wednesday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/wed.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/wed.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/wed.gif</animated_thumbnail>
 </dir>
 
-<item>
-	<title>[B][COLOR=white]Failure is an Orphan[/COLOR][/B]</title>
-	<meta>
-	<imdb>tt3107288</imdb>
-	<content>episode</content>
-	<tvshowtitle>The Flash</tvshowtitle>
-	<year>2019</year>
-	<season>5</season>
-	<episode>16</episode>
-	</meta>
-	<link>
-	<sublink>https://rapidgator.net/file/2acf899f469f974ef4444ed4dc6e6273/The.Flash.2014.S05E16.720p.HDTV.x264-BATV.mkv</sublink>
-	<sublink>https://rapidgator.net/file/95f27eb187689f391cbedf7d66e855d5/the.flash.2014.s05e16.1080p.web.h264-tbs.mkv.html</sublink>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/z3CqL2vnjgLuefOiR5AYD9Tf91S.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/jC1KqsFx8ZyqJyQa2Ohi7xgL7XC.jpg</fanart>
-</item>
 
-<item>
-	<title>[B][COLOR=white]Barely Breathing[/COLOR][/B]</title>
-	<meta>
-	<imdb>tt7588054</imdb>
-	<content>episode</content>
-	<tvshowtitle>Roswell, New Mexico</tvshowtitle>
-	<year>2019</year>
-	<season>1</season>
-	<episode>8</episode>
-	</meta>
-	<link>
-	<sublink>https://rapidgator.net/file/98789be58192e93f770ca7f74fa56469/Roswell.New.Mexico.S01E08.720p.HDTV.x264-AVS.mkv.html</sublink>
-	<sublink>https://rapidgator.net/file/4ff716121c36622dc188764b943fd575/roswell.new.mexico.s01e08.1080p.web.h264-robots.mkv.html</sublink>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/7zoSHKlPlbtkIENur8oxhtJqHPp.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/qO4jVsqkvScwJKLV3nf5KWNzWMu.jpg</fanart>
-</item>
 
-<item>
-	<title>[B][COLOR=white]Vacation[/COLOR][/B]</title>
-	<meta>
-	<imdb>tt5648202</imdb>
-	<content>episode</content>
-	<tvshowtitle>Corporate</tvshowtitle>
-	<year>2019</year>
-	<season>2</season>
-	<episode>9</episode>
-	</meta>
-	<link>
-	<sublink>https://rapidgator.net/file/851aed00af5b995700ffe892b278d7de/Corporate.S02E09.720p.WEB.H264-METCON.mkv.html</sublink>
-	<sublink>https://rapidgator.net/file/b7844fa9acaa6f8eec3ac11cb5c6a618/Corporate.S02E09.1080p.WEB.H264-METCON.mkv.html</sublink>
-	<sublink>search</sublink>
-	<sublink>searchsd</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/lMQMc3HkYoG3ylKUlks59ROkkW8.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/w1280/i25Y3nb5766NcG3hEqR6ah1ZfFy.jpg</fanart>
-</item>
 
-<item>
 	<title>[B][COLOR=white]The Fall[/COLOR][/B]</title>
 	<meta>
 	<imdb>tt5648202</imdb>
@@ -103,6 +45,38 @@
 <link>https://github.com/mattitch/images/raw/master/dtv/thu.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/thu.gif</animated_thumbnail>
 </dir>
+<item>
+	<title>[B][COLOR=white]Lainey and Erica's High School Reunion[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6546758</imdb>
+	<content>episode</content>
+	<tvshowtitle>Schooled</tvshowtitle>
+	<year>2019</year>
+	<season>1</season>
+	<episode>8</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/442f308cef5420cb9eeaca6b8ce7e2cc/Schooled.S01E08.720p.HDTV.x264-AVS.mkv.html</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/dROiRmBIdyUM4JCS2DFoMxZPZYT.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/5z6asibb0h8x9SkY8FskrqVQQ64.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=white]The Beverly Goldberg Cookbook[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt2712740</imdb>
+	<content>episode</content>
+	<tvshowtitle>The Goldbergs</tvshowtitle>
+	<year>2019</year>
+	<season>6</season>
+	<episode>18</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/41008fc31d189dcc4d117014f9da42d1/The.Goldbergs.2013.S06E18.720p.HDTV.x264-KILLERS.mkv.html</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/aquO9IoIQvjHPefaQwAMlZDdaN8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/3twMJlePSuqik5odGtqhZ4qfdLh.jpg</fanart>
+</item>
 
 
 
