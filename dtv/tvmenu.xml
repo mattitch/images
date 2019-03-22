@@ -2,6 +2,7 @@
 <title>Monday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/mon.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/mon.gif</animated_thumbnail>
+<fanart>https://github.com/mattitch/images/raw/master/Other/mon.jpg</fanart>
 </dir>
 
 
@@ -9,6 +10,7 @@
 <title>Tuesday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/tue.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/tue.gif</animated_thumbnail>
+<fanart>https://github.com/mattitch/images/raw/master/Other/tue.jpg</fanart>
 </dir>
 
 
@@ -20,6 +22,7 @@
 <title>Wednesday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/wed.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/wed.gif</animated_thumbnail>
+<fanart>https://github.com/mattitch/images/raw/master/Other/wed.jpg</fanart>
 </dir>
 
 
@@ -31,6 +34,7 @@
 <title>Thursday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/thu.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/thu.gif</animated_thumbnail>
+<fanart>https://github.com/mattitch/images/raw/master/Other/thu.jpg</fanart>
 <info>[B][COLOR=red]>>>>>>LATEST>>>>>>[/COLOR][/B]</info>
 </dir>
 
@@ -41,6 +45,7 @@
 <title>Friday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/fri.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/fri.gif</animated_thumbnail>
+<fanart>https://github.com/mattitch/images/raw/master/Other/fri.jpg</fanart>
 </dir>
 
 <item>
@@ -136,6 +141,7 @@
 <title>Saturday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/sat.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sat.gif</animated_thumbnail>
+<fanart>https://github.com/mattitch/images/raw/master/Other/sat.jpg</fanart>
 </dir>
 
 
@@ -147,6 +153,7 @@
 <title>Sunday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/sun.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sun.gif</animated_thumbnail>
+<fanart>https://github.com/mattitch/images/raw/master/Other/sun.jpg</fanart>
 </dir>
 
 <dir>
