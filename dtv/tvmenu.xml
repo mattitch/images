@@ -42,7 +42,7 @@
 
 
 <dir>
-<title>Friday[B][COLOR=red]>>>>>>LATEST>>>>>>[/COLOR][/B]</title>
+<title>Friday[COLOR=red]>>>>>>[/COLOR]</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/fri.xml</link>
 <summary>[B][COLOR=red]>>>>>>LATEST>>>>>>[/COLOR][/B]</summary>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/fri.gif</animated_thumbnail>
@@ -51,7 +51,7 @@
 </dir>
 
 <item>
-	<title>[B][COLOR=white]Legend of Dark Knight: I Am Bane[/COLOR][/B]</title>
+	<title>[COLOR=white]Legend of Dark Knight: I Am Bane[/COLOR]</title>
 	<meta>
 	<imdb>tt3749900</imdb>
 	<content>episode</content>
@@ -67,7 +67,7 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/mKBP1OCgCG0jw8DwVYlnYqVILtc.jpg</fanart>
 </item>
 <item>
-	<title>[B][COLOR=white]Blizzard[/COLOR][/B]</title>
+	<title>[COLOR=white]Blizzard[/COLOR]</title>
 	<meta>
 	<imdb>tt4477976</imdb>
 	<content>episode</content>
@@ -83,7 +83,7 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/ueLR9bzdrjsWdv9E4kfnLxfbol8.jpg</fanart>
 </item>
 <item>
-	<title>[B][COLOR=white]The Therapist[/COLOR][/B]</title>
+	<title>[COLOR=white]The Therapist[/COLOR]</title>
 	<meta>
 	<imdb>tt2467372</imdb>
 	<content>episode</content>
@@ -99,7 +99,7 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/ncC9ZgZuKOdaVm7yXinUn26Qyok.jpg</fanart>
 </item>
 <item>
-	<title>[B][COLOR=white]Lasting Impressions[/COLOR][/B]</title>
+	<title>[COLOR=white]Lasting Impressions[/COLOR]</title>
 	<meta>
 	<imdb>tt5691552</imdb>
 	<content>episode</content>
@@ -115,7 +115,7 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/2Qg2fViQzWenpUaMjhv0kNhCbE9.jpg</fanart>
 </item>
 <item>
-	<title>[B][COLOR=white]Iâ€™ll Tell You a Story[/COLOR][/B]</title>
+	<title>[COLOR=white]I'll Tell You a Story[/COLOR]</title>
 	<meta>
 	<imdb>tt8103070</imdb>
 	<content>episode</content>
