@@ -42,16 +42,18 @@
 
 
 <dir>
-<title>Friday[COLOR=red]>>>>>>[/COLOR]</title>
+<title>Friday</title>
 <link>https://github.com/mattitch/images/raw/master/dtv/fri.xml</link>
-<summary>[B][COLOR=red]>>>>>>LATEST>>>>>>[/COLOR][/B]</summary>
+
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/fri.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/fri.jpg</fanart>
 
 </dir>
 
 <dir>
-<title>Saturday</title>
+
+<title>Saturday[COLOR=red]>>>>>>[/COLOR]</title>
+<summary>>>>>>>LATEST>>>>>></summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/sat.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sat.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/sat.jpg</fanart>
