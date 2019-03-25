@@ -1,5 +1,6 @@
 <dir>
 <title>Monday</title>
+<summary>Monday 18th March</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/mon.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/mon.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/mon.jpg</fanart>
@@ -39,6 +40,7 @@
 
 <dir>
 <title>Tuesday</title>
+<summary>Tuesday 19th March</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/tue.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/tue.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/tue.jpg</fanart>
@@ -51,6 +53,7 @@
 	
 <dir>
 <title>Wednesday</title>
+<summary>Wedneday 20th March</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/wed.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/wed.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/wed.jpg</fanart>
@@ -63,6 +66,7 @@
 	
 <dir>
 <title>Thursday</title>
+<summary>Thursday 21st March</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/thu.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/thu.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/thu.jpg</fanart>
@@ -74,6 +78,7 @@
 
 <dir>
 <title>Friday</title>
+<summary>Friday 22nd March</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/fri.xml</link>
 
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/fri.gif</animated_thumbnail>
@@ -84,6 +89,7 @@
 <dir>
 
 <title>Saturday</title>
+<summary>Saturday 23rd March</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/sat.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sat.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/sat.jpg</fanart>
@@ -96,7 +102,7 @@
 
 <dir>
 <title>Sunday[COLOR=red]>>>>>>[/COLOR]</title>
-<summary>>>>>>>LATEST>>>>>></summary>
+<summary>Sunday 24th March>>>>>>LATEST>>>>>></summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/sun.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/sun.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/sun.jpg</fanart>
@@ -104,5 +110,6 @@
 
 <dir>
 <title>My Episodes To Watch</title>
+<summary>Random New Episodes</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/seps.xml</link>
 </dir>
