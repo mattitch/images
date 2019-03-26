@@ -3,7 +3,7 @@
 	<thumbnail>http://gen-tec.co/gentecwiz/PLEASE%20SUBSCRIBE%20TO%20CHARLIE%20TEC%20YOUTUBE/star/tvshows/catchup.png</thumbnail>
 	<fanart>https://i.imgur.com/Mc9U1iE.jpg</fanart>
 </item>
-<dir>
+<item>
 	<title>[COLOR=gold]Bobs Burgers[/COLOR]</title>
 	<meta>
 	<imdb>tt1561755</imdb>
@@ -16,8 +16,8 @@
 	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/scupuCSlFB9bFwi0TBLtk7JY3mg.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/uFR8WVPh1eynE3TyzIo2b4ndd4r.jpg</fanart>
-</dir>
-<dir>
+</item>
+<item>
 	<title>[COLOR=gold]The Simpsons[/COLOR]</title>
 	<meta>
 	<imdb>tt0096697</imdb>
@@ -28,8 +28,8 @@
 	<link><sublink>https://rapidgator.net/file/b74346f61d236b437c126e55dc25ec86/the.simpsons.s30e18.720p.web.x264-tbs.mkv.html</sublink></link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/l18xQsO27KFJwsj35JaAsG95dN7.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/lnnrirKFGwFW18GiH3AmuYy40cz.jpg</fanart>
-</dir>
-<dir>
+</item>
+<item>
 	<title>[COLOR=gold]Family Guy[/COLOR]</title>
 	<meta>
 	<imdb>tt0182576</imdb>
@@ -40,7 +40,7 @@
 	<link><sublink>https://rapidgator.net/file/2f7e7bd5b7b830c44642259341fd783a/family.guy.s17e16.720p.web.x264-tbs.mkv.html</sublink></link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/1DFGzACH8XmPXJOzwgkywQGG7Ic.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/pH38r4TWTqq7Mcs6XAlwgzNUeJe.jpg</fanart>
-</dir>
+</item>
 
 
 
