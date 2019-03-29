@@ -28,29 +28,77 @@
 
 	
 <dir>
-<title>Thursday[COLOR=red]>>>>>>[/COLOR]</title>
-<summary>Thursday 28th March>>>>>>LATEST>>>>>></summary>
+<title>Thursday</title>
+<summary>Thursday 28th March</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/thu.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/thu.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/thu.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/thu.jpg</fanart>
-
 </dir>
 
 
 
 
 <dir>
-<title>Friday</title>
-<summary>Friday 22nd March</summary>
+<title>Friday[COLOR=red]>>>>>>[/COLOR]</title>
+<summary>Friday 29th March>>>>>>LATEST>>>>>></summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/fri.xml</link>
-
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/fri.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/fri.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/fri.jpg</fanart>
-
 </dir>
 
-<dir>
+<item>
+	<title>[COLOR=gold]On the Hot Seat[/COLOR]</title>
+	<meta>
+	<imdb>tt8026448</imdb>
+	<content>episode</content>
+	<tvshowtitle>Tacoma FD</tvshowtitle>
+	<year>2019</year>
+	<season>1</season>
+	<episode>1</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/447019d581fcbef20b454f43f85c5c6d/tacoma.fd.s01e01.proper.720p.webrip.x264-tbs.mkv.html</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gQQ00nI9WWgdRlq7RLcBZWXKzS4.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tcf746UqIHtw9hhm1vfBOJg0V43.jpg</fanart>
+</item>
 
+<item>
+	<title>[COLOR=gold]There's Always a Loophole[/COLOR]</title>
+	<meta>
+	<imdb>tt8103070</imdb>
+	<content>episode</content>
+	<tvshowtitle>Legacies</tvshowtitle>
+	<year>2019</year>
+	<season>1</season>
+	<episode>16</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/54e60a9ce3c371aac53f00d4f538e7cb/legacies.s01e16.720p.hdtv.x264-lucidtv.mkv.html</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bULKxDY88WNWsKedNTSfLtmmiER.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR=gold]Lovebirds[/COLOR]</title>
+	<meta>
+	<imdb>tt4477976</imdb>
+	<content>episode</content>
+	<tvshowtitle>Superstore</tvshowtitle>
+	<year>2019</year>
+	<season>4</season>
+	<episode>13</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/27cc8ac2d52d6b43c9dd3927b40b27f2/superstore.s04e13.720p.hdtv.x264-lucidtv.mkv.html</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/aNqCjp1nlg5OPpYu7gX4GnIO7zU.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/ueLR9bzdrjsWdv9E4kfnLxfbol8.jpg</fanart>
+</item>
+
+
+<dir>
 <title>Saturday</title>
 <summary>Saturday 23rd March</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/sat.xml</link>
