@@ -7,6 +7,41 @@
 <fanart>https://github.com/mattitch/images/raw/master/Other/mon.jpg</fanart>
 </dir>
 
+<item>
+	<title>[COLOR=gold]All About Eve[/COLOR]</title>
+	<meta>
+	<imdb>tt4016454</imdb>
+	<content>episode</content>
+	<tvshowtitle>Supergirl</tvshowtitle>
+	<year>2019</year>
+	<season>4</season>
+	<episode>17</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/0bfe3e4114737e76d643f6bc72ff6e82/Supergirl.S04E17.XviD-AFG.avi</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ivqcndOjIWBuDJBjcFmtzehBzET.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2qou2R47XZ1N6SlqGZcoCHDyEhN.jpg</fanart>
+</item>
+
+<item>
+	<title>[COLOR=gold]Surrender[/COLOR]</title>
+	<meta>
+	<imdb>tt6394324</imdb>
+	<content>episode</content>
+	<tvshowtitle>Charmed</tvshowtitle>
+	<year>2019</year>
+	<season>1</season>
+	<episode>17</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/7005b59e0025236c577818744eb301f8/charmed.2018.s01e17.web.h264-tbs.mkv.html</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/eZsGUpq02FS6sCVSdbMCd8YqY0y.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/sXW7lzfD7EIZgvA56psCM8HNvqT.jpg</fanart>
+</item>
+
+
 <dir>
 <title>Tuesday</title>
 <summary>Tuesday 26th March</summary>
@@ -50,10 +85,10 @@
 
 
 <dir>
-<title>Saturday[COLOR=red]>>>>>>[/COLOR]</title>
-<summary>Saturday 30th March>>>>>>LATEST>>>>>></summary>
+<title>Saturday</title>
+<summary>Saturday 30th March</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/sat.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/sat.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sat.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/sat.jpg</fanart>
 </dir>
 
@@ -63,10 +98,10 @@
 
 
 <dir>
-<title>Sunday</title>
-<summary>Sunday 24th March</summary>
+<title>Sunday[COLOR=red]>>>>>>[/COLOR]</title>
+<summary>Sunday 31st March>>>>>>LATEST>>>>>></summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/sun.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sun.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/sun.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/sun.jpg</fanart>
 </dir>
 
