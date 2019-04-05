@@ -11,10 +11,10 @@
 
 
 <dir>
-<title>Tuesday[COLOR=red]>>>>>>[/COLOR]</title>
-<summary>Tuesday 1st April>>>>>>LATEST>>>>>></summary>
+<title>Tuesday</title>
+<summary>Tuesday 2nd April</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/tue.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/tue.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/tue.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/tue.jpg</fanart>
 </dir>
 
@@ -26,7 +26,7 @@
 	
 <dir>
 <title>Wednesday</title>
-<summary>Wedneday 27th March</summary>
+<summary>Wedneday 3rd April</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/wed.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/wed.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/wed.jpg</fanart>
@@ -37,46 +37,14 @@
 
 	
 <dir>
-<title>Thursday</title>
-<summary>Thursday 28th March</summary>
+<title>Thursday[COLOR=red]>>>>>>[/COLOR]</title>
+<summary>Thursday 4th April>>>>>>LATEST>>>>>></summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/thu.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/thu.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/thu.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/thu.jpg</fanart>
 </dir>
 
-<item>
-	<title>[COLOR=gold]This Is This Is Spinal Tap[/COLOR]</title>
-	<meta>
-	<imdb>tt2712740</imdb>
-	<content>episode</content>
-	<tvshowtitle>The Goldbergs</tvshowtitle>
-	<year>2019</year>
-	<season>6</season>
-	<episode>20</episode>
-	</meta>
-	<link>
-	<sublink>https://rapidgator.net/file/f9e8126c48014838059a6e56c128397c/The.Goldbergs.2013.S06E20.WEB.x264-RBB.mp4.html</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/aquO9IoIQvjHPefaQwAMlZDdaN8.jpg</thumbnail>
-	<fanart></fanart>
-</item>
 
-<item>
-	<title>[COLOR=gold]There's No Fighting In Fight Club[/COLOR]</title>
-	<meta>
-	<imdb>tt6546758</imdb>
-	<content>episode</content>
-	<tvshowtitle>Schooled</tvshowtitle>
-	<year>2019</year>
-	<season>1</season>
-	<episode>10</episode>
-	</meta>
-	<link>
-	<sublink>https://rapidgator.net/file/f89a55f5946fcb0a1879da4fbae12f51/Schooled.S01E10.WEB.x264-RBB.mp4.html</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/dROiRmBIdyUM4JCS2DFoMxZPZYT.jpg</thumbnail>
-	
-</item>
 
 
 
@@ -88,6 +56,54 @@
 <fanart>https://github.com/mattitch/images/raw/master/Other/fri.jpg</fanart>
 </dir>
 
+<item>
+	<title>[COLOR=gold]Minor Crimes[/COLOR]</title>
+	<meta>
+	<imdb>tt4477976</imdb>
+	<content>episode</content>
+	<tvshowtitle>Superstore</tvshowtitle>
+	<year>2019</year>
+	<season>4</season>
+	<episode>14</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/3c98f72715d1d95a28dfb53b88b6ca7e/Superstore.S04E14.HDTV.x264-RBB.mp4.html</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/aNqCjp1nlg5OPpYu7gX4GnIO7zU.jpg</thumbnail>
+	
+</item>
+
+<item>
+	<title>[COLOR=gold]The Laureate Accumulation[/COLOR]</title>
+	<meta>
+	<imdb>tt0898266</imdb>
+	<content>episode</content>
+	<tvshowtitle>The Big Bang Theory</tvshowtitle>
+	<year>2019</year>
+	<season>12</season>
+	<episode>18</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/1677231da726cb6701c7460a876870a9/The.Big.Bang.Theory.S12E18.HDTV.x264-RBB.mp4.html</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wsbrXP0qAKwrJ3ZUCoLwFI4Qws3.jpg</thumbnail>
+</item>
+
+<item>
+	<title>[COLOR=gold]A Perfect Score and a Bunsen Burner Marshmallow[/COLOR]</title>
+	<meta>
+	<imdb>tt6226232</imdb>
+	<content>episode</content>
+	<tvshowtitle>Young Sheldon</tvshowtitle>
+	<year>2019</year>
+	<season>2</season>
+	<episode>18</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/2b196e324bb7725d9287e4e613329b66/Young.Sheldon.S02E18.HDTV.x264-rbb.mp4.html</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7r2LDgbpXYefl2vCQDsZGiVVnlT.jpg</thumbnail>
+</item>
 
 
 
