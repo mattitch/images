@@ -1,7 +1,7 @@
 <xml><csb>
 <dir>
 <title>Monday</title>
-<summary>Monday 1st April</summary>
+<summary>Monday 8th April</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/mon.xml</link>
 <animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/mon.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/mon.jpg</fanart>
@@ -11,10 +11,10 @@
 
 
 <dir>
-<title>Tuesday</title>
-<summary>Tuesday 2nd April</summary>
+<title>Tuesday[COLOR=red]>>>>>>[/COLOR]</title>
+<summary>Tuesday 9th April>>>>>>LATEST>>>>>></summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/tue.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/tue.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/tue.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/tue.jpg</fanart>
 </dir>
 
@@ -103,10 +103,10 @@
 
 
 <dir>
-<title>Sunday[COLOR=red]>>>>>>[/COLOR]</title>
-<summary>Sunday 7th April>>>>>>LATEST>>>>>></summary>
+<title>Sunday</title>
+<summary>Sunday 7th April</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/sun.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/sun.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sun.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/sun.jpg</fanart>
 </dir>
 
