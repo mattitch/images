@@ -11,57 +11,41 @@
 
 
 <dir>
-<title>Tuesday[COLOR=red]>>>>>>[/COLOR]</title>
-<summary>Tuesday 9th April>>>>>>LATEST>>>>>></summary>
+<title>Tuesday</title>
+<summary>Tuesday 9th April</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/tue.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/tue.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/tue.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/tue.jpg</fanart>
 </dir>
 
-<item>
-	<title>[COLOR=gold]Heavenly Fire[/COLOR]</title>
-	<meta>
-	<imdb>tt4145054</imdb>
-	<content>episode</content>
-	<tvshowtitle>Shadowhunters</tvshowtitle>
-	<year>2019</year>
-	<season>3</season>
-	<episode>17</episode>
-	</meta>
-	<link>
-	<sublink>https://rapidgator.net/file/f0bb01b07953cea01e1aa7c3e8852b15/shadowhunters.the.mortal.instruments.s03e17.720p.web.x264-tbs.mkv.html</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/ldUAPxkuVRX7KTLrrx0BOQXMRzt.jpg</thumbnail>
-</item>
-
-<item>
-	<title>[COLOR=gold]The Getaway[/COLOR]</title>
-	<meta>
-	<imdb>tt4532368</imdb>
-	<content>episode</content>
-	<tvshowtitle>DC s Legends of Tomorrow</tvshowtitle>
-	<year>2019</year>
-	<season>4</season>
-	<episode>10</episode>
-	</meta>
-	<link>
-	<sublink>https://rapidgator.net/file/64db4de454d1c7f08265a06bba4d6cf0/DCs.Legends.of.Tomorrow.S04E10.720p.HDTV.x264-AVS.mkv.html</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/lN7Hx9MbnCbUdGAmomk6pCmUOJ8.jpg</thumbnail>
-</item>
 
 
 
 
 	
 <dir>
-<title>Wednesday</title>
-<summary>Wedneday 3rd April</summary>
+<title>Wednesday[COLOR=red]>>>>>>[/COLOR]</title>
+<summary>Wedneday 10th April>>>>>>LATEST>>>>>></summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/wed.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/wed.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/wed.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/wed.jpg</fanart>
 </dir>
 
+<item>
+	<title>[COLOR=gold]Champagne Supernova[/COLOR]</title>
+	<meta>
+	<imdb>tt7588054</imdb>
+	<content>episode</content>
+	<tvshowtitle>Roswell, New Mexico</tvshowtitle>
+	<year>2019</year>
+	<season>1</season>
+	<episode>11</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/180e224aad2274ca3fed451db0030bcf/roswell.new.mexico.s01e11.720p.web.h264-tbs.mkv.html</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/7zoSHKlPlbtkIENur8oxhtJqHPp.jpg</thumbnail>
+</item>
 
 
 
@@ -115,4 +99,18 @@
 <summary>Random New Episodes</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/seps.xml</link>
 </dir>
+
+<dir>
+<name>[COLOR red]CLICK HERE FOR MARCH CATCH UP TV[/COLOR]</name>
+<link>https://pastebin.com/raw/tc5chMfh</link>
+<thumbnail>http://gen-tec.co/gentecwiz/PLEASE%20SUBSCRIBE%20TO%20CHARLIE%20TEC%20YOUTUBE/star/tvshows/catchup.png</thumbnail>
+<fanart>https://cdn.wallpapersafari.com/73/37/4Bg6z0.jpg</fanart>
+<summary>Daily Tv Shows updated everyday</summary>
+</dir>
+<plugin>
+<name>[COLOR skyblue]SEARCH TV APRIL CATCH UP[/COLOR]</name>
+<link>plugin://plugin.video.mattboxtv/?mode=Search</link>
+<thumbnail>http://www.whoa.in/20140224-Whoa/1st-April-Happy-April-Fool-Day-HD-Wallpaper.jpg</thumbnail>
+<fanart></fanart>
+</plugin>
 </csb></xml>
