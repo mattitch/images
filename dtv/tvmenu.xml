@@ -45,10 +45,10 @@
 
 
 <dir>
-<title>Friday[COLOR=red]>>>>>>[/COLOR]</title>
-<summary>Friday 12th April>>>>>>LATEST>>>>>></summary>
+<title>Friday</title>
+<summary>Friday 12th April</summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/fri.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/fri.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/fri.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/fri.jpg</fanart>
 </dir>
 
@@ -117,10 +117,10 @@
 </item>
 
 <dir>
-<title>Saturday</title>
-<summary>Saturday 6th April</summary>
+<title>Saturday[COLOR=red]>>>>>>[/COLOR]</title>
+<summary>Saturday 13th April>>>>>>LATEST>>>>>></summary>
 <link>https://github.com/mattitch/images/raw/master/dtv/sat.xml</link>
-<animated_thumbnail>https://github.com/mattitch/images/raw/master/Other/sat.gif</animated_thumbnail>
+<animated_thumbnail>https://github.com/mattitch/images/raw/master/Latest/sat.gif</animated_thumbnail>
 <fanart>https://github.com/mattitch/images/raw/master/Other/sat.jpg</fanart>
 </dir>
 
