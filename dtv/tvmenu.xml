@@ -1,9 +1,11 @@
 <xml><csb>
 
 <item>
-<title>DAILY UPDATES CURRENTLY BEING SERVICED UNTIL FURTHER NOTICE<title>
+<title>DAILY UPDATES CURRENTLY BEING SERVICED UNTIL FURTHER NOTICE</title>
 <thumbnail>https://capitalref.com/wp-content/uploads/2015/11/SERVICE.png</thumbnail>
+<link>https://github.com/mattitch/images/raw/master/dtv/tvmenu.xml</link>
 </item>
+
 <dir>
 <title>Monday</title>
 <summary>Monday 15th April</summary>
