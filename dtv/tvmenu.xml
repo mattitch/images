@@ -14,7 +14,7 @@
 <fanart>https://github.com/mattitch/images/raw/master/Other/mon.jpg</fanart>
 </dir>
 
-<item>
+
 	<title>[COLOR=gold]American Dreamer[/COLOR]</title>
 	<meta>
 	<imdb>tt4016454</imdb>
@@ -30,7 +30,7 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/ivqcndOjIWBuDJBjcFmtzehBzET.jpg</thumbnail>
 </item>
 
-<item>
+
 	<title>[COLOR=gold]Power of Four[/COLOR]</title>
 	<meta>
 	<imdb>tt6394324</imdb>
@@ -46,21 +46,8 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/eZsGUpq02FS6sCVSdbMCd8YqY0y.jpg</thumbnail>
 </item>
 
-<item>
-	<title>[COLOR=gold]The Long Night[/COLOR]</title>
-	<meta>
-	<imdb>tt0944947</imdb>
-	<content>episode</content>
-	<tvshowtitle>Game of Thrones</tvshowtitle>
-	<year>2019</year>
-	<season>8</season>
-	<episode>3</episode>
-	</meta>
-	<link>
-	<sublink>https://rapidgator.net/file/8738f84bf1ba8677813987d0acfa00d5/game.of.thrones.s08e03.720p.web.h264-memento.mkv</sublink>
-	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/3OcQhbrecf4F4pYss2gSirTGPvD.jpg</thumbnail>
-</item>
+
+	
 
 
 <dir>
@@ -71,9 +58,69 @@
 <fanart>https://github.com/mattitch/images/raw/master/Other/tue.jpg</fanart>
 </dir>
 
+<item>
+	<title>[COLOR=gold]Confessions[/COLOR]</title>
+	<meta>
+	<imdb>tt2193021</imdb>
+	<content>episode</content>
+	<tvshowtitle>Arrow</tvshowtitle>
+	<year>2019</year>
+	<season>7</season>
+	<episode>20</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/f629411ed8d096acdf324d43dceaeb4a/Arrow.S07E20.720p.HDTV.x264-KILLERS.mkv.html</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9cxK9fqx933lxnlOFWn1vEnHjV7.jpg</thumbnail>
+</item>
 
+<item>
+	<title>[COLOR=gold]Egg MacGuffin[/COLOR]</title>
+	<meta>
+	<imdb>tt4532368</imdb>
+	<content>episode</content>
+	<tvshowtitle>DC s Legends of Tomorrow</tvshowtitle>
+	<year>2019</year>
+	<season>4</season>
+	<episode>13</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/c0d52b81468fb96ca82f32402a28b542/DCs.Legends.of.Tomorrow.S04E13.720p.HDTV.x264-KILLERS.mkv</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lN7Hx9MbnCbUdGAmomk6pCmUOJ8.jpg</thumbnail>
+</item>
 
+<item>
+	<title>[COLOR=gold]Clean Country Living[/COLOR]</title>
+	<meta>
+	<imdb>tt5536400</imdb>
+	<content>episode</content>
+	<tvshowtitle>Man with a Plan</tvshowtitle>
+	<year>2019</year>
+	<season>3</season>
+	<episode>12</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/cb523c0dd857a689bfd6a3a87bef40c2/Man.With.a.Plan.S03E12.720p.HDTV.x264-KILLERS.mkv</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/j6dnyHiS0qmvnrfuJkIDO5meCRN.jpg</thumbnail>
+</item>
 
+<item>
+	<title>[COLOR=gold]City of Glass[/COLOR]</title>
+	<meta>
+	<imdb>tt4145054</imdb>
+	<content>episode</content>
+	<tvshowtitle>Shadowhunters</tvshowtitle>
+	<year>2019</year>
+	<season>3</season>
+	<episode>20</episode>
+	</meta>
+	<link>
+	<sublink>https://rapidgator.net/file/478f804c012966fd9ab149086dd42839/shadowhunters.the.mortal.instruments.s03e20.720p.web.x264-tbs.mkv.html</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ldUAPxkuVRX7KTLrrx0BOQXMRzt.jpg</thumbnail>
+</item>
 
 
 	
